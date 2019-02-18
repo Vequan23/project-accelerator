@@ -5,7 +5,7 @@ Speed up the development of your web apps
 - Comes preconfigured with [Parcel](https://parceljs.org) to manage all of your bundling needs
 - Comes preconfigured with  [Babel](https://babeljs.io/)
 - Comes preconfigured with [PostCSS](https://postcss.org/)
-- Comes preconfigured to meet [PWA requirements](https://developers.google.com/web/progressive-web-apps/checklist)
+<!-- - Comes preconfigured to meet [PWA requirements](https://developers.google.com/web/progressive-web-apps/checklist) -->
 
 ## Get Started
 ```
@@ -21,11 +21,7 @@ A dev server will be started on port `http://localhost:1234/` with live reload e
 
 All of your bundled assets will live in
 ```
-Your Project
-└───Project-Starterkit-Parcel
-│   │
-│   └───dist
-│
+dist
 ```
 ## Authors
 Vequan Clark
