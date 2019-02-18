@@ -1,5 +1,5 @@
 # Project Accelerator
-Speed up the development of your web apps
+Speed up the development of your web apps :rocket:
 ## What is project accelerator?
 - Project boiler plate
 - Comes preconfigured with [Parcel](https://parceljs.org) to manage all of your bundling needs
