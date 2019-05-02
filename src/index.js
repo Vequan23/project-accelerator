@@ -3,7 +3,7 @@ const init = () => {
 };
 
 const bindEvents = () => {
-console.log('Welecos to project accelerator');
+console.log('Welcome to project accelerator');
 };
 
 
