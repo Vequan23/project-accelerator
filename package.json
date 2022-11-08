@@ -22,7 +22,7 @@
         "babel-preset-env": "1.7.0",
         "parcel-bundler": "1.12.3",
         "postcss-custom-media": "7.0.6",
-        "postcss-modules": "1.4.1",
+        "postcss-modules": "1.5.0",
         "postcss-nested": "4.1.0",
         "postcss-preset-env": "6.1.1"
     }
